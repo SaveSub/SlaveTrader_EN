@@ -1,0 +1,86 @@
+﻿{
+  "Scene_Load": {
+    "WindowLayer": {
+      "1,Window_SavefileList": {
+        "x": 640,
+        "y": 72,
+        "width": 640,
+        "height": 648,
+        "opacity": 255,
+        "hidden": false,
+        "_customFontSize": 36,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "0,Window_Help": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 72,
+        "opacity": 255,
+        "hidden": false,
+        "_customFontSize": 36,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      }
+    },
+    "Scene_Load": {
+      "0,Sprite": {
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "Scene_Item": {
+    "WindowLayer": {
+      "1,Window_ItemCategory": {
+        "x": 0,
+        "y": 120,
+        "width": 1280,
+        "height": 72,
+        "opacity": 255,
+        "hidden": false,
+        "_customFontSize": 36,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "0,Window_Help": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 120,
+        "opacity": 255,
+        "hidden": false,
+        "_customFontSize": 36,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      },
+      "2,Window_ItemList": {
+        "x": 0,
+        "y": 192,
+        "width": 1280,
+        "height": 528,
+        "opacity": 255,
+        "hidden": false,
+        "_customFontSize": 36,
+        "_customPadding": 18,
+        "_customLineHeight": 36,
+        "_customBackOpacity": 192,
+        "_customBackFileName": "",
+        "_customFontFace": ""
+      }
+    }
+  }
+}

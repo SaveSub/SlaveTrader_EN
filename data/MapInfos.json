@@ -1,0 +1,48 @@
+﻿[
+  null,
+  {
+    "id": 1,
+    "expanded": true,
+    "name": "MAP001",
+    "order": 1,
+    "parentId": 0,
+    "scrollX": 450.6666666666667,
+    "scrollY": 608.6666666666666
+  },
+  {
+    "id": 2,
+    "expanded": false,
+    "name": "フィールド",
+    "order": 2,
+    "parentId": 1,
+    "scrollX": 854.6666666666666,
+    "scrollY": 652.6666666666666
+  },
+  {
+    "id": 3,
+    "expanded": true,
+    "name": "タイトル画面",
+    "order": 3,
+    "parentId": 1,
+    "scrollX": 450.6666666666667,
+    "scrollY": 608.6666666666666
+  },
+  {
+    "id": 4,
+    "expanded": false,
+    "name": "イベント用",
+    "order": 4,
+    "parentId": 3,
+    "scrollX": 450.6666666666667,
+    "scrollY": 608.6666666666666
+  },
+  {
+    "id": 5,
+    "expanded": false,
+    "name": "回想シーン",
+    "order": 5,
+    "parentId": 3,
+    "scrollX": 0,
+    "scrollY": 0
+  }
+]

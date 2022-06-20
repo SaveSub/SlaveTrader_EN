@@ -1,0 +1,2529 @@
+﻿[
+  null,
+  {
+    "id": 1,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "dorei01",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Adventurer A",
+    "nickname": "25",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 2,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 1,
+    "faceName": "dorei01",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.6
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.6
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Village Girl",
+    "nickname": "20",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 3,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 2,
+    "faceName": "dorei01",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Thief",
+    "nickname": "20",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 4,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 3,
+    "faceName": "dorei01",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1.2
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Elf",
+    "nickname": "25",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 5,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 4,
+    "faceName": "dorei01",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0.6
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Witch",
+    "nickname": "30",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 6,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 5,
+    "faceName": "dorei01",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0.6
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Trader",
+    "nickname": "30",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 7,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 6,
+    "faceName": "dorei01",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Adventurer B",
+    "nickname": "30",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 8,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 7,
+    "faceName": "dorei01",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Aristocrat",
+    "nickname": "45",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 9,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "dorei02",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Dancer",
+    "nickname": "30",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 10,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 1,
+    "faceName": "dorei02",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Bunny Girl",
+    "nickname": "40",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 11,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 2,
+    "faceName": "dorei02",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1.5
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Guardswoman",
+    "nickname": "40",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 12,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 3,
+    "faceName": "dorei02",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Maid A",
+    "nickname": "50",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 13,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 4,
+    "faceName": "dorei02",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1.2
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Maid B",
+    "nickname": "50",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 14,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 5,
+    "faceName": "dorei02",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Fairy",
+    "nickname": "30",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 15,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 6,
+    "faceName": "dorei02",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Scholar",
+    "nickname": "35",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 16,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 7,
+    "faceName": "dorei02",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1.5
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Nun",
+    "nickname": "50",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 17,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "dorei03",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.6
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Kunoichi",
+    "nickname": "35",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 18,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 1,
+    "faceName": "dorei03",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.6
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Curio Shopkeeper",
+    "nickname": "30",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 19,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 2,
+    "faceName": "dorei03",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Adventurer C",
+    "nickname": "50",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 20,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 3,
+    "faceName": "dorei03",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.7
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Girl",
+    "nickname": "30",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 21,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 4,
+    "faceName": "dorei03",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Alchemist A",
+    "nickname": "40",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 22,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 5,
+    "faceName": "dorei03",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Alchemist B",
+    "nickname": "40",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 23,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 6,
+    "faceName": "dorei03",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Princess",
+    "nickname": "100",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 24,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 7,
+    "faceName": "dorei03",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Beastgirl",
+    "nickname": "45",
+    "note": "",
+    "profile": "弱点予定：秘密スライムの粉"
+  },
+  {
+    "id": 25,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "dorei04",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1.2
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Holy Maiden",
+    "nickname": "75",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 26,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 1,
+    "faceName": "dorei04",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Duo",
+    "nickname": "60",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 27,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 2,
+    "faceName": "dorei04",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Royal Knight",
+    "nickname": "60",
+    "note": "",
+    "profile": "イベントのみなので調教なし"
+  },
+  {
+    "id": 28,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 3,
+    "faceName": "dorei04",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Martial Artist",
+    "nickname": "40",
+    "note": "",
+    "profile": "イベントのみなので調教なし"
+  },
+  {
+    "id": 29,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 4,
+    "faceName": "dorei04",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Otherworlder",
+    "nickname": "50",
+    "note": "",
+    "profile": "女子高生：電撃くすぐり棒予定"
+  },
+  {
+    "id": 30,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 5,
+    "faceName": "dorei04",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 0.4
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1.5
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Clan Member",
+    "nickname": "10",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 31,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 6,
+    "faceName": "dorei04",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Vampire Princess",
+    "nickname": "10",
+    "note": "",
+    "profile": "イベントのみなので調教なし"
+  },
+  {
+    "id": 32,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "dorei05",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Slave Trader 1",
+    "nickname": "10",
+    "note": "",
+    "profile": "イベントのみなので調教なし"
+  },
+  {
+    "id": 33,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      1,
+      1,
+      2,
+      3,
+      0
+    ],
+    "faceIndex": 1,
+    "faceName": "dorei05",
+    "traits": [
+      {
+        "code": 11,
+        "dataId": 1,
+        "value": 1.5
+      },
+      {
+        "code": 11,
+        "dataId": 2,
+        "value": 1.2
+      },
+      {
+        "code": 11,
+        "dataId": 3,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 4,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 5,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 6,
+        "value": 0.75
+      },
+      {
+        "code": 11,
+        "dataId": 7,
+        "value": 1
+      },
+      {
+        "code": 11,
+        "dataId": 8,
+        "value": 1
+      }
+    ],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Slave Trader 1",
+    "nickname": "10",
+    "note": "",
+    "profile": "イベントのみなので調教なし"
+  },
+  {
+    "id": 34,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 35,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 1,
+    "faceName": "Nature01",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "ロック1",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 36,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 2,
+    "faceName": "Nature01",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "ロック2",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 37,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 38,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 39,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 40,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 41,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 42,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 43,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 44,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 45,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 46,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 47,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 48,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 49,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 50,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 51,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 99,
+    "name": "Slave Trader",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  }
+]
